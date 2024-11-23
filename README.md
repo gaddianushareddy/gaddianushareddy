@@ -2,6 +2,6 @@
 - 👀 I’m interested in single-cell and bulk RNA sequencing data analysis, multi-omics, and applying bioinformatics to uncover insights into understanding of complex diseases.
 - 🌱 I’m currently learning advanced machine learning techniques for omics data integration and further exploring complex datasets.
 - 💞️ I’m looking to collaborate on projects involving multi-omics data analysis, RNA sequencing, and buliding interactive web tools for biological data visualization.
-- 📫 How to reach me: agaddi@mgh.harvard.edu
+- 📫 How to reach me: gaddi.a@northeastern.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love decoding complex datasets as much as I enjoy solving jigsaw puzzles!
